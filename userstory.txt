@@ -1,0 +1,3 @@
+1)As a user, I want to see an initial cash balance in my paper trading app so that I can use it to buy different stocks
+2)As a user , I want to  buy different stocks with the cash in the wallet so that I can show it in the portfolio.
+3)As a user, I can sell the stocks bought so that I am able to make some profit 

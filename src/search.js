@@ -26,8 +26,6 @@ export default function Search() {
 
     useEffect( ()=>{
         console.log('this runs only once on component load')
-       
-       
         fetchWallet()
 
     },[])
