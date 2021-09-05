@@ -28,7 +28,8 @@ export default function Portfolio() {
         fetchPortfolio()
 
     },[])
-
+    
+//function to sell stock
       const sellStock=async (id)=>{
       console.log('Selling this stock',id)
   
